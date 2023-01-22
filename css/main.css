@@ -2,9 +2,11 @@
 /* CSS Document */
 
 
-body { font-size: 16px; }
-#mainHeader
-{
+body { 
+  font-size: 16px; 
+}
+
+#mainHeader {
   display: flex;
 	flex-direction: row;
   align-content: center;
@@ -12,16 +14,14 @@ body { font-size: 16px; }
   margin-top: 10px;
 }
 
-#logo
-{
+#logo {
   display: flex;
 	align-self: center;
   justify-content: center;
 
 }
 
-#mainNav
-{
+#mainNav {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -30,8 +30,7 @@ body { font-size: 16px; }
   margin-bottom: 10px;
 }
 
-#summary
-{
+#summary {
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
@@ -39,8 +38,7 @@ body { font-size: 16px; }
   margin-bottom: 50px;
 }
 
-h1
-{
+h1 {
   display: flex;
   font-size: 45px;
   font-color: #832238;
@@ -50,8 +48,7 @@ h1
   margin-bottom: 5px;
 }
 
-h2
-{
+h2 {
   display: flex;
   font-size: 30px;
   color: #F08E8F;
@@ -61,8 +58,7 @@ h2
   margin-bottom: 10px;
 }
 
-p
-{
+p {
     line-height: 20px;
     text-align: center;
     align-content: flex-start;
@@ -70,24 +66,44 @@ p
     margin: 1px;
 }
 
-  .icon-holder {width: 100%; margin: 0 auto; text-align: center; }
-  .icon-holder2 {width: 100%; margin: 0 auto; text-align: center; }
+.icon-holder {
+    width: 100%; margin: 0 auto; text-align: center; 
+}
 
-  .wrapper {width: 10%; display: inline-block; padding: 1em; }
-  .wrapper img {width: 100%; }
-  .wrapper
-  {
+.icon-holder2 {
+    width: 100%; margin: 0 auto; text-align: center;
+}
+
+.wrapper {
+    width: 10%; display: inline-block; padding: 1em; 
+}
+
+.wrapper img {
+    width: 100%; 
+}
+
+.wrapper {
     align-content: center;
     justify-content: center;
-  }
+}
 
-  .wrapper2 {width: 10%; display: inline-block; padding: 1em; }
-  .wrapper2 img {width: 100%; }
-  .wrapper2
-  {
+.wrapper2 {
+    width: 10%; display: inline-block; padding: 1em; 
+}
+
+.wrapper2 img {
+    width: 100%; 
+}
+
+.wrapper2 {
     align-content: center;
     justify-content: center;
-  }
+}
 
-  .logo {width: 8%; display: inline-block; padding: 1em; }
-  .logo img {width: 100%; }
+.logo {
+    width: 8%; display: inline-block; padding: 1em; 
+}
+
+.logo img {
+    width: 100%; 
+}

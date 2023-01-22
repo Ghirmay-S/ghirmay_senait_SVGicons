@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150"><defs><style>.cls-1{fill:#231f20;stroke:#fff;stroke-miterlimit:10;stroke-width:5px;}</style></defs><rect id="black-square" class="cls-1" x="31.34" y="34.66" width="87.33" height="87.33"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+    <defs>
+        <style>.cls-1{fill:#231f20;stroke:#fff;stroke-miterlimit:10;stroke-width:5px;}
+            #black-square { cursor: pointer; }
+            #black-square:hover { fill: #E06C5D !important; }
+            #black-square:hover { transform: scale(1.1); }
+        </style>
+    </defs><rect id="black-square" class="cls-1" x="31.34" y="34.66" width="87.33" height="87.33"/>
+</svg>

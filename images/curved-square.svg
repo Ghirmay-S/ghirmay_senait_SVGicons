@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150"><defs><style>.cls-1{fill:#231f20;}</style></defs><rect id="black-curved-square" class="cls-1" x="31.34" y="34.66" width="87.33" height="87.33" rx="27.94" ry="27.94"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+    <defs>
+        <style>.cls-1{fill:#231f20;}
+            #black-curved-square { cursor: pointer; }
+            #black-curved-square:hover { fill: #E06C5D !important; }
+            #black-curved-square:hover { transform: scale(1.1); }
+        </style>
+    </defs><rect id="black-curved-square" class="cls-1" x="31.34" y="34.66" width="87.33" height="87.33" rx="27.94" ry="27.94"/>
+</svg>

@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150"><defs>
-
-<style>.cls-1{fill:#231f20;stroke:#fff;stroke-miterlimit:10;stroke-width:5px;}
-
-#black-star { cursor: pointer; }
-#black-star:hover { fill: #E06C5D !important; }
-</style>
-
-</defs><polygon id="black-star" class="cls-1" points="75 17.22 93.77 55.26 135.75 61.36 105.37 90.97 112.55 132.78 75 113.04 37.45 132.78 44.63 90.97 14.25 61.36 56.23 55.26 75 17.22"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+    <defs>
+        <style>.cls-1{fill:#231f20;stroke:#fff;stroke-miterlimit:10;stroke-width:5px;}
+            #black-star { cursor: pointer; }
+            #black-star:hover { fill: #E06C5D !important; }
+            #black-star:hover { transform: scale(1.1); }
+        </style>
+    </defs><polygon id="black-star" class="cls-1" points="75 17.22 93.77 55.26 135.75 61.36 105.37 90.97 112.55 132.78 75 113.04 37.45 132.78 44.63 90.97 14.25 61.36 56.23 55.26 75 17.22"/>
+</svg>

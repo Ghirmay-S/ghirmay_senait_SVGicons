@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150"><defs><style>.cls-1{fill:#231f20;stroke:#ef3f23;stroke-miterlimit:10;stroke-width:5px;}</style></defs><g id="triangle-2"><polygon class="cls-1" points="75 39.58 95.45 75 115.9 110.42 75 110.42 34.1 110.42 54.55 75 75 39.58"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+    <defs>
+        <style>.cls-1{fill:#231f20;stroke:#ef3f23;stroke-miterlimit:10;stroke-width:5px;}
+            #triangle-2 { cursor: pointer; }
+            #triangle-2 { fill: #E06C5D !important; }
+            #triangle-2:hover { transform: scale(1.1); }
+        </style>
+    </defs><g id="triangle-2"><polygon class="cls-1" points="75 39.58 95.45 75 115.9 110.42 75 110.42 34.1 110.42 54.55 75 75 39.58"/></g>
+</svg>
